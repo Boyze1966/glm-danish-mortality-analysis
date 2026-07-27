@@ -26,7 +26,7 @@ approximately **74,000 deaths** in Denmark over the study period, around
 - `outputs/glm_danish_mortality.pdf` - rendered report
 - `requirements.txt` - Python dependencies
 - `README.md` - this file
-- 
+  
 ## Methodology
 
 1. **Exploratory analysis** - empirical death rates by age, sex, period,
