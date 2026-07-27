@@ -38,7 +38,7 @@ glm-danish-mortality-analysis/
    `agegrp`.
 3. **Diagnostics** - Cook's distance, residuals-vs-fitted (structural
    fit), scale-location plots (random/variance fit).
-4. **Negative binomial regression** — addressing overdispersion
+4. **Negative binomial regression** - addressing overdispersion
    identified in Poisson diagnostics.
 5. **Interaction model** - adding `diabetes × agegrp` to resolve
    remaining structural misspecification, motivated by the empirical
@@ -61,5 +61,5 @@ jupyter notebook notebooks/glm_danish_mortality.ipynb
 ## Data
 
 The dataset (`dmdk.csv`) contains counts of deaths and person-years at
-risk in Denmark from 1996–2015, stratified by 5-year age group,
+risk in Denmark from 1996-2015, stratified by 5-year age group,
 calendar period, sex, and diabetes status.
