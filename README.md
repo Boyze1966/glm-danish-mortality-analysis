@@ -31,7 +31,7 @@ glm-danish-mortality-analysis/
 └── README.md
 ## Methodology
 
-1. **Exploratory analysis** — empirical death rates by age, sex, period,
+1. **Exploratory analysis** - empirical death rates by age, sex, period,
    and diabetes status.
 2. **Poisson regression** - baseline model with `agegrp`, `period`,
    `sex`; likelihood ratio test comparing linear `age` vs. factor
