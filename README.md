@@ -20,15 +20,13 @@ approximately **74,000 deaths** in Denmark over the study period, around
 **6.4% of all deaths**.
 
 ## Project structure
-glm-danish-mortality-analysis/
-├── notebooks/
-│ └── glm_danish_mortality.ipynb ← full analysis
-├── data/
-│ └── dmdk.csv ← Danish mortality data (1996–2015)
-├── outputs/
-│ └── glm_danish_mortality.pdf ← rendered report
-├── requirements.txt
-└── README.md
+
+- `notebooks/glm_danish_mortality.ipynb` - full analysis notebook
+- `data/dmdk.csv` - Danish mortality data (1996–2015)
+- `outputs/glm_danish_mortality.pdf` - rendered report
+- `requirements.txt` - Python dependencies
+- `README.md` - this file
+- 
 ## Methodology
 
 1. **Exploratory analysis** - empirical death rates by age, sex, period,
